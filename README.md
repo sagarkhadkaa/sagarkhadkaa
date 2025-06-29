@@ -2,13 +2,9 @@
 <h3 align="center">Software Developer • Full‑Stack Enthusiast</h3>
 
 <p align="center">
-  <a href="https://sagarkhadka.info.np">
-    <img
-      src="https://readme-typing-svg.demolab.com/?lines=React%20%7C%20Next.js%20%7C%20Node.js%20%7C%20Express;Building%20Modern%20Web%20Apps;Performance%20%26%20Mobile‑First;Let%27s%20Build%20Together!&center=true&width=600&height=40"
-      alt="Typing SVG"
-    >
-  </a>
+  <a href="https://sagarkhadka.info.np"><strong>Visit my portfolio website ➜ sagarkhadka.info.np</strong></a>
 </p>
+
 
 
 
