@@ -1,16 +1,61 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Sagar Khadka</h1>
+<h3 align="center">Software Developer • Web & Full‑Stack Enthusiast</h3>
 
-<!--
-**sagarkhadkaa/sagarkhadkaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://sagarkhadka.info.np">
+    <img src="https://readme-typing-svg.demolab.com/?lines=React%20%7C%20Next.js%20%7C%20Node.js%20%7C%20Express;Building%20Modern%20Web%20Apps;Performance%20&%20Mobile‑First;Let's%20Build%20Together!&center=true&width=600&height=40" alt="Typing SVG"/>
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 I’m a passionate developer based in Kathmandu, Nepal, specializing in building performant, user-friendly web applications using the modern JavaScript ecosystem. I focus on clean architecture, responsive design, and end-to-end product development.
+
+🌱 I specialize in **JavaScript** with modern frameworks like **React**, **Next.js**, **Node.js**, and **Express**, focusing on performance, responsiveness, and user experience.
+
+💡 I enjoy translating design mockups into functional, mobile-responsive interfaces with clean, performant code.
+
+🔭 I’m currently exploring:
+- ⚛️ Advanced React patterns – Hooks, Context API, Redux Toolkit
+- 📜 Modern JavaScript – ES6+, async/await, closures, event loop
+- 💡 Backend architecture – Microservices, RESTful APIs, authentication
+- 📲 Cross-platform apps – React Native, mobile-first development
+- ☁️ DevOps & Deployment – Docker, CI/CD, Vercel, Render, AWS
+
+---
+
+## 💼 Worked on the following Projects
+
+- 🚀 **Getdesk** – A call-management dashboard featuring campaign forms, real-time agent monitoring, and responsive UIs.
+- 📦 **Wireless Inventory** – Multi-user inventory system with roles, transaction tracking, and sales reports.
+- 👥 **HRLabs** – HR management suite for payroll, leave, payslips, and employee data.
+- 🗂 **Listinfo** – All-in-one business solution including tickets, bookings, contacts, inventory, and chat integration.
+
+---
+
+## 🛠 Tech Stack
+
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)
+![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat&logo=sass)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=mongodb)
+
+---
+
+## 📫 Contact & Links
+
+[🌐 Portfolio](https://sagarkhadka.info.np)  
+[🔗 LinkedIn](https://www.linkedin.com/in/sagar-khadkaa)  
+📧 `sagarkhadka2069@gmail.com`  
+📍 Kathmandu, Nepal  
+
+---
+
+**Let’s build something awesome together!**
