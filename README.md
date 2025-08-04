@@ -5,9 +5,6 @@
   <a href="https://sagarkhadka.info.np"><strong>Visit my portfolio website ➜ sagarkhadka.info.np</strong></a>
 </p>
 
-
-
-
 ---
 
 🎯 I’m a passionate developer based in Kathmandu, Nepal, specializing in building performant, user-friendly web applications using the modern JavaScript ecosystem. I focus on clean architecture, responsive design, and end-to-end product development.
@@ -16,17 +13,18 @@
 
 💡 I enjoy translating design mockups into functional, mobile-responsive interfaces with clean, performant code.
 
-🔭 I’m currently exploring:
-- ⚛️ Advanced React patterns – Hooks, Context API, Redux Toolkit
-- 📜 Modern JavaScript – ES6+, async/await, closures, event loop
-- 💡 Backend architecture – Microservices, RESTful APIs, authentication
-- 📲 Cross-platform apps – React Native, mobile-first development
-- ☁️ DevOps & Deployment – Docker, CI/CD, Vercel, Render, AWS
+🚧 Currently:
+- 🛠 Working with **React** and **Node.js** 
+- 🚀 Developing a **personal project** alongside professional work
+- 🤝 Open to collaborations and exciting opportunities
+- 💬 Available for freelance and remote work
+- 📚 Continuously learning, sharing resources, and contributing to the developer community
 
 ---
 
 ## 💼 Worked on the following Projects
 
+- 📞 **Buel** *(in progress)* – Unified business solution with call management, ticketing, and omnichannel messaging (Messenger, WhatsApp, Telegram, etc.).
 - 🚀 **Getdesk** – A call-management dashboard featuring campaign forms, real-time agent monitoring, and responsive UIs.
 - 📦 **Wireless Inventory** – Multi-user inventory system with roles, transaction tracking, and sales reports.
 - 👥 **HRLabs** – HR management suite for payroll, leave, payslips, and employee data.
