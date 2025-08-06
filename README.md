@@ -15,7 +15,7 @@
 
 🚧 Currently:
 - 🛠 Working with **React** and **Node.js** 
-- 🚀 Working on various **project**
+- 🚀 Working on various **projects**
 - 🤝 Open to collaborations and exciting opportunities
 - 💬 Available for freelance and remote work
 - 📚 Continuously learning, sharing resources, and contributing to the developer community
