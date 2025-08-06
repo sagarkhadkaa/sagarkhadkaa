@@ -15,7 +15,7 @@
 
 🚧 Currently:
 - 🛠 Working with **React** and **Node.js** 
-- 🚀 Developing a **personal project** alongside professional work
+- 🚀 Working on various **project**
 - 🤝 Open to collaborations and exciting opportunities
 - 💬 Available for freelance and remote work
 - 📚 Continuously learning, sharing resources, and contributing to the developer community
@@ -24,7 +24,7 @@
 
 ## 💼 Worked on the following Projects
 
-- 📞 **Buel** *(in progress)* – Unified business solution with call management, ticketing, and omnichannel messaging (Messenger, WhatsApp, Telegram, etc.).
+- 📞 **Buel** – Unified business solution with call management, ticketing, and omnichannel messaging (Messenger, WhatsApp, Telegram, etc.).
 - 🚀 **Getdesk** – A call-management dashboard featuring campaign forms, real-time agent monitoring, and responsive UIs.
 - 📦 **Wireless Inventory** – Multi-user inventory system with roles, transaction tracking, and sales reports.
 - 👥 **HRLabs** – HR management suite for payroll, leave, payslips, and employee data.
