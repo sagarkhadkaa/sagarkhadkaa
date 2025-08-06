@@ -31,6 +31,25 @@
 - 🗂 **Listinfo** – All-in-one business solution including tickets, bookings, contacts, inventory, and chat integration.
 
 ---
+## 📈 GitHub Stats
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=sagarkhadkaa&label=Profile%20views&color=0e75b6&style=flat" alt="sagarkhadkaa" />
+</p>
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagarkhadkaa&show_icons=true&locale=en&layout=compact" alt="sagarkhadkaa" />
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagarkhadkaa&show_icons=true&locale=en" alt="sagarkhadkaa" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagarkhadkaa&" alt="sagarkhadkaa" /></p>
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagarkhadkaa" alt="sagarkhadkaa" /></a>
+</p>
+
+---
 
 ## 🛠 Tech Stack
 
