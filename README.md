@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Sagar Khadka</h1>
-<h3 align="center">Software Developer • Full‑Stack Enthusiast</h3>
+<h3 align="center">Full‑Stack Enthusiast</h3>
 
 <p align="center">
   <a href="https://sagarkhadka.info.np"><strong>Visit my portfolio website ➜ sagarkhadka.info.np</strong></a>
