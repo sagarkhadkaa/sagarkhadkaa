@@ -24,7 +24,7 @@
 
 ## 💼 Worked on the following Projects
 
-- 📞 **Buel** – Unified business solution with call management, ticketing, and omnichannel messaging (Messenger, WhatsApp, Telegram, etc.).
+- 📞 **BuelPBX** – A comprehensive PBX management platform for building telephony workflows with extensions, dialplans, IVR systems, call queues, voice recordings, and more.
 - 🚀 **Getdesk** – A call-management dashboard featuring campaign forms, real-time agent monitoring, and responsive UIs.
 - 📦 **Wireless Inventory** – Multi-user inventory system with roles, transaction tracking, and sales reports.
 - 👥 **HRLabs** – HR management suite for payroll, leave, payslips, and employee data.
