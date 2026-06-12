@@ -24,6 +24,7 @@
 
 ## 💼 Worked on the following Projects
 
+- 🎫 **Buel Bucket** – Omnichannel ticketing platform that unifies customer interactions across voice, WhatsApp, Messenger, TikTok, and other channels.
 - 📞 **BuelPBX** – A comprehensive PBX management platform for building telephony workflows with extensions, dialplans, IVR systems, call queues, voice recordings, and more.
 - 🚀 **Getdesk** – A call-management dashboard featuring campaign forms, real-time agent monitoring, and responsive UIs.
 - 📦 **Wireless Inventory** – Multi-user inventory system with roles, transaction tracking, and sales reports.
